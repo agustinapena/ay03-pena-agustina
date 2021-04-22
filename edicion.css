@@ -1,0 +1,62 @@
+#nav{
+    background: beige;
+    font-size: 24px;
+    font-family: 'Gill Sans';
+    color:saddlebrown
+}
+#titulo{
+    font-size: 50px;
+    font-family:'Gill Sans';
+    color:saddlebrown;
+}
+#nose{
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    background: saddlebrown;
+    color:seashell;
+}
+#contacto{
+    font-size: 20px;
+    font-family: 'sans-serif';
+    color:burlywood;
+}
+#instagram{
+    font-size: 20px;
+    font-family: 'sans-serif';
+    color:burlywood;
+}
+#contactanos{
+    font-size: 30px;
+    background: burlywood;
+    font-family: 'sans-serif';
+    color:saddlebrown;
+}
+#telefono{
+    font-size: 20px;
+    font-family: 'sans-serif';
+    color:burlywood;
+}
+#div1{
+    padding:20px;
+    border:1px solid saddlebrown;
+    border-radius: 60px;
+    float:right;
+}
+#div2{
+    padding:50px;
+    border:1px solid burlywood;
+    border-radius: 60px;
+    float: left;
+}
+#div3{
+    padding:40px;
+    border:1px solid saddlebrown;
+    border-radius: 60px;
+    float: left;
+}
+#div4{
+    padding:40px;
+    border:1px solid burlywood;
+    border-radius: 60px;
+    float: left;
+}
