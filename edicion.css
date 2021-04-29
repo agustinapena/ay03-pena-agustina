@@ -60,3 +60,33 @@
     border-radius: 60px;
     float: left;
 }
+#div5{
+    padding:40px;
+    border:1px solid burlywood;
+    border-radius: 60px;
+    float: left;
+    background: burlywood;
+    font-family: 'sans-serif';
+    color:saddlebrown;  
+}
+#boton1{
+    background: beige;
+    font-size: 24px;
+    font-family: 'Gill Sans';
+    color:saddlebrown;
+    float: left
+}
+#boton2{
+    background: beige;
+    font-size: 24px;
+    font-family: 'Gill Sans';
+    color:saddlebrown;
+    float: left
+}
+#boton3{
+    background: beige;
+    font-size: 24px;
+    font-family: 'Gill Sans';
+    color:saddlebrown;
+    float: left
+}
